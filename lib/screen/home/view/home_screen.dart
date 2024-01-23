@@ -107,7 +107,7 @@ class _HomePageState extends State<HomePage> {
                         children: [
                           Text(
                             'Height: ${height.toStringAsFixed(0)} cm',
-                            style: const TextStyle(fontSize: 18),
+                            style: const TextStyle(fontSize: 15),
                           ),
                           Padding(
                             padding: const EdgeInsets.only(left: 15,right: 15),
